@@ -16,7 +16,7 @@ In this project, I conducted a thorough analysis of the sales data for a multina
 ![Screenshot 2024-07-02 011509](https://github.com/sumeet-codde/Data_Analysis_Sales_in_Excel/assets/66643575/e7e3a79a-eef8-4b68-85cf-2a382401dfc9)
 
 
-Key Responsibilities and Achievements:
+# Key Responsibilities and Achievements:
 Data Collection and Consolidation:
 
 Compiled sales data from various sources into a unified Excel workbook.
@@ -27,25 +27,24 @@ Cleaned the data using advanced Excel functions and Power Query.
 Structured the data into relevant categories: Country, Product, Units Sold, Revenue, Cost, Profit, and Date.
 
 
-Revenue by Country Per Month:
+## Revenue by Country Per Month:
 
 Analyzed monthly revenue for each country to identify top-performing markets.
 Created PivotTables and PivotCharts to visualize revenue trends and facilitate comparison between countries.
 
-Units Sold Per Month:
+## Units Sold Per Month:
 
 Examined the monthly sales volume to determine product popularity and sales trends.
 Utilized Excel’s charting tools to represent units sold over time, highlighting seasonal variations and peak periods.
 
 
-Profit Per Month:
+## Profit Per Month:
 
 Calculated monthly profit by deducting costs from revenue, providing a clear view of profitability trends.
 Developed interactive dashboards to track profit margins and identify high and low-profit periods.
 
 This project demonstrates my ability to leverage Excel’s powerful features for thorough data analysis and visualization, providing valuable insights that drive business decisions. By including these skills and detailed descriptions, I effectively showcase my capabilities in handling data analysis projects using Excel.
-## 🚀 About Me
-I'm a full Assistant Software Engineer at Konverge.ai
+
 
 
 ## Other Common Github Profile Sections
