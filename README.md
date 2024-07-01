@@ -13,6 +13,9 @@ Project Description:
 
 In this project, I conducted a thorough analysis of the sales data for a multinational retail company. The goal was to uncover trends, track performance metrics, and provide actionable insights to optimize business strategies. The analysis spanned several key areas, including revenue, units sold, costs, and profit, segmented by country and month.
 
+![Screenshot 2024-07-02 011509](https://github.com/sumeet-codde/Data_Analysis_Sales_in_Excel/assets/66643575/e7e3a79a-eef8-4b68-85cf-2a382401dfc9)
+
+
 Key Responsibilities and Achievements:
 Data Collection and Consolidation:
 
@@ -60,6 +63,7 @@ I'm a full Assistant Software Engineer at Konverge.ai
 😄 Pronouns He/Him
 
 ⚡️ Fun fact: I love turning data into stories! When I'm not crunching numbers, you can find me baking up a storm or exploring new tech innovations.
+
 
 
 ## 🔗 Links
